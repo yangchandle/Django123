@@ -1,0 +1,538 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"api",
+				"api_blueprint"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"e",
+				"entries"
+			],
+			[
+				"get",
+				"get_db"
+			],
+			[
+				"sql",
+				"sqlite_db"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"new",
+				"new_path"
+			],
+			[
+				"p",
+				"project"
+			],
+			[
+				"j",
+				"jsonify"
+			],
+			[
+				"json",
+				"json_result"
+			],
+			[
+				"as",
+				"assertNotIn"
+			],
+			[
+				"ass",
+				"assertIn"
+			],
+			[
+				"add",
+				"add_tasks"
+			],
+			[
+				"her",
+				"heroku_test"
+			],
+			[
+				"asser",
+				"assertEquals"
+			],
+			[
+				"error",
+				"errorhandler"
+			],
+			[
+				"creat",
+				"create_admin_user"
+			],
+			[
+				"assert",
+				"assertIn"
+			],
+			[
+				"python",
+				"python101"
+			],
+			[
+				"l",
+				"login"
+			],
+			[
+				"log",
+				"logout"
+			],
+			[
+				"cre",
+				"create_task"
+			],
+			[
+				"navbar",
+				"navbar-nav"
+			],
+			[
+				"task",
+				"tasks_blueprint"
+			],
+			[
+				"user",
+				"users_blueprint"
+			],
+			[
+				"ex",
+				"execute"
+			],
+			[
+				"c",
+				"create_all"
+			],
+			[
+				"co",
+				"connection"
+			],
+			[
+				"st",
+				"String"
+			],
+			[
+				"fi",
+				"first"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"cra",
+				"create_user"
+			],
+			[
+				"fo",
+				"follow_redirects"
+			],
+			[
+				"cr",
+				"create_task"
+			],
+			[
+				"pso",
+				"posted_date"
+			],
+			[
+				"create",
+				"create_task"
+			],
+			[
+				"fl",
+				"follow_redirects"
+			],
+			[
+				"TEST",
+				"TEST_DB"
+			],
+			[
+				"IN",
+				"IntegrityError"
+			],
+			[
+				"pos",
+				"posted_date"
+			],
+			[
+				"E",
+				"EqualTo"
+			],
+			[
+				"L",
+				"length"
+			],
+			[
+				"Pas",
+				"PasswordField"
+			],
+			[
+				"PA",
+				"PasswordField"
+			],
+			[
+				"RE",
+				"DataRequired"
+			],
+			[
+				"P",
+				"PasswordField"
+			],
+			[
+				"DA",
+				"DataRequired"
+			],
+			[
+				"n",
+				"nullable"
+			],
+			[
+				"pri",
+				"primary_key"
+			],
+			[
+				"__",
+				"__tablename__"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"com",
+				"commit"
+			],
+			[
+				"s",
+				"status"
+			],
+			[
+				"Add",
+				"AddTaskForm"
+			],
+			[
+				"Da",
+				"DataRequired"
+			],
+			[
+				"Date",
+				"DataRequired"
+			],
+			[
+				"connec",
+				"connect_db"
+			],
+			[
+				"clo",
+				"closed_tasks"
+			],
+			[
+				"reu",
+				"request"
+			],
+			[
+				"ra",
+				"random2"
+			],
+			[
+				"r",
+				"random1"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"CIT",
+				"cities"
+			],
+			[
+				"sear",
+				"search_query"
+			],
+			[
+				"H",
+				"HttpResponse"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "hello_world_project.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/yang/python/part2/Django123",
+		"/home/yang/python/part2/Django123/hello_world_project/hello_world_project"
+	],
+	"file_history":
+	[
+		"/home/yang/python/part2/flask-hello-world/Flask_blog/templates/main.html",
+		"/home/yang/python/part2/FlaskTaskr/login.html",
+		"/home/yang/python/part2/flask-hello-world/Flask_blog/templates/template.html",
+		"/home/yang/python/part2/flask-hello-world/Flask_blog/blog.py",
+		"/home/yang/python/part2/flask-hello-world/Flask_blog/debugging/pdb_ex.py",
+		"/home/yang/python/part2/flask-hello-world/Flask_blog/debugging/pdb_ex2.py",
+		"/home/yang/python/part2/flask-hello-world/Flask_blog/debugging/post_mortem_pdb.py",
+		"/home/yang/python/part2/flask-hello-world/Flask_blog/templates/login.html",
+		"/home/yang/python/part2/flask-hello-world/Flask_blog/static /css/styles.css",
+		"/home/yang/python/part2/flask-hello-world/Flask_blog/__init__.py",
+		"/home/yang/python/part2/flask-hello-world/sql/01_sql.py",
+		"/home/yang/python/part2/flask-hello-world/sql/join_data.py",
+		"/home/yang/python/part2/flask-hello-world/sql/regions.py",
+		"/home/yang/python/part2/flask-hello-world/sql/multiple_tables.py",
+		"/home/yang/python/part2/flask-hello-world/sql/search.py",
+		"/home/yang/python/part2/flask-hello-world/sql/hw_sql.py",
+		"/home/yang/python/part2/flask-hello-world/sql/hw-sql.py",
+		"/home/yang/python/part2/flask-hello-world/sql/try.py",
+		"/home/yang/python/part2/flask-hello-world/sql/employees.py",
+		"/home/yang/python/part2/flask-hello-world/sql/hw_sqld.py",
+		"/home/yang/python/part2/flask-hello-world/sql/update_and_deleting.py",
+		"/home/yang/python/part2/flask-hello-world/sql/03_sql.py",
+		"/home/yang/python/part2/flask-hello-world/sql/02_sql.py",
+		"/home/yang/python/part2/flask-hello-world/sql/car.py",
+		"/home/yang/python/part2/flask-hello-world/app.py",
+		"/home/yang/python/part2/Started/print(\"Hello, world! This is my first PUSH to Gith",
+		"/home/yang/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/yang/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/yang/python/nodejs/router.js",
+		"/home/yang/python/part2/django-bloggy/bloggy_project/blog/models.py",
+		"/home/yang/python/part2/django-quick-start/hello_world_project/templates/betterhello.html",
+		"/home/yang/python/part2/django-quick-start/hello_world_project/hello_world_project/urls.py",
+		"/home/yang/python/part2/django-quick-start/hello_world_project/hello_world/urls.py",
+		"/home/yang/python/part2/django-quick-start/hello_world_project/hello_world_project/settings.py",
+		"/home/yang/python/part2/django-quick-start/hello_world_project/hello_world/views.py",
+		"/home/yang/python/web2py/py2manager/applications/py2manager/views/default/index.html",
+		"/home/yang/python/web2py/py2manager/applications/py2manager/controllers/default.py"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"()\n",
+			">\n",
+			"/',"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "hello_world_project.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 75.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 35.0
+	},
+	"pinned_build_system": "",
+	"project": "hello_world_project.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
