@@ -296,10 +296,55 @@
 	"buffers":
 	[
 		{
-			"file": "hello_world_project.sublime-project",
+			"file": "hello_world_project/hello_world_project/settings.py",
 			"settings":
 			{
-				"buffer_size": 45,
+				"buffer_size": 3189,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hello_world_project/hello_world/views.py",
+			"settings":
+			{
+				"buffer_size": 470,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hello_world_project/templates/betterhello.html",
+			"settings":
+			{
+				"buffer_size": 144,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hello_world_project/hello_world/tests.py",
+			"settings":
+			{
+				"buffer_size": 60,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hello_world_project/hello_world/urls.py",
+			"settings":
+			{
+				"buffer_size": 214,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hello_world_project/hello_world_project/urls.py",
+			"settings":
+			{
+				"buffer_size": 889,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -337,10 +382,17 @@
 	"expanded_folders":
 	[
 		"/home/yang/python/part2/Django123",
-		"/home/yang/python/part2/Django123/hello_world_project/hello_world_project"
+		"/home/yang/python/part2/Django123/hello_world_project",
+		"/home/yang/python/part2/Django123/hello_world_project/hello_world",
+		"/home/yang/python/part2/Django123/hello_world_project/hello_world/__pycache__",
+		"/home/yang/python/part2/Django123/hello_world_project/hello_world_project",
+		"/home/yang/python/part2/Django123/hello_world_project/hello_world_project/__pycache__",
+		"/home/yang/python/part2/Django123/hello_world_project/templates"
 	],
 	"file_history":
 	[
+		"/home/yang/python/part2/Django123/hello_world_project/main.js",
+		"/home/yang/python/part2/Django123/hello_world_project/index.html",
 		"/home/yang/python/part2/flask-hello-world/Flask_blog/templates/main.html",
 		"/home/yang/python/part2/FlaskTaskr/login.html",
 		"/home/yang/python/part2/flask-hello-world/Flask_blog/templates/template.html",
@@ -415,16 +467,102 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "hello_world_project.sublime-project",
+					"file": "hello_world_project/hello_world_project/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1704,
+								1704
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1350.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "hello_world_project/hello_world/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								470,
+								470
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 350.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "hello_world_project/templates/betterhello.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "hello_world_project/hello_world/tests.py",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 45,
+						"buffer_size": 60,
 						"regions":
 						{
 						},
@@ -437,13 +575,69 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 75.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "hello_world_project/hello_world/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 214,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								62,
+								62
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "hello_world_project/hello_world_project/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 889,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								889,
+								889
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 375.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
